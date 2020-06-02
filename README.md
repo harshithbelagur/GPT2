@@ -1,6 +1,6 @@
-#Lite Implementation of GPT2
+# Lite Implementation of GPT2
 
-Codes are taken from multiple sources and annotated for better understanding. Pretrained weights used from Hugging Face - 
+Codes are taken from multiple sources and annotated for better understanding. Pretrained weights used from Hugging Face(source given in the notebook) - 
 
 - http://jalammar.github.io/illustrated-gpt2/
 
